@@ -1,0 +1,11 @@
+[{
+	"natureApiUrl": "https://processloader.snap4city.org/processloader/api/dictionary/?type=nature",
+    "subnatureApiUrl": "https://processloader.snap4city.org/processloader/api/dictionary/?type=subnature",
+	"orgApiUrl" : "https://www.snap4city.org/dashboardSmartCity/api/organizations.php",
+	"superServiceMapApiUrl" : "https://www.snap4city.org/superservicemap/api/v1/",
+	"multiServiceMapUrl":"https://www.snap4city.org/MultiServiceMap/",
+	"realm": "master",
+    "authUrl": "https://www.snap4city.org/auth/",
+    "clientId": "js-snap4city-mobile-app",
+	"ldapApiUrl":"https://www.snap4city.org/dashboardSmartCity/api/ldap.php?action=get_logged_ou&username="
+}]
